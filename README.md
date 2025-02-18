@@ -1,9 +1,3 @@
-# simple-keepalive
-Hard coded crappy AI generated code that actually works to keep usb drive awake and ready for access.
-
-Here’s a `README.md` for setting up `AccessDrive.ps1` to run at startup using the **Windows Startup Folder** method.
-
-
 ### 📖 **README.md**
 
 ```markdown
@@ -131,7 +125,3 @@ $Shortcut.Save()
 
 💾 **Done!** The `AccessDrive.ps1` script now runs at startup and logs its activity to `C:\scripts\drive_access.log`. 🎯
 ```
-
----
-
-Let me know if you'd like any tweaks! 😊
